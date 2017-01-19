@@ -3,6 +3,7 @@
  *
  * Source: http://rosettacode.org/wiki/Luhn_test_of_credit_card_numbers
 */
+
 <?php
 function luhnCheck($num) {
 	$str = '';
